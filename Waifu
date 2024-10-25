@@ -1,0 +1,16 @@
+  "description": {
+            "en": "..."
+        }
+    },
+    {
+        "address": "one16z48jm3pvrkjvrrx36g2cher0d8t6jcdyyu63d",
+        "decimals": 18,
+        "totalSupply": "69000000",
+        "name": "Waifu",
+        "symbol": "WAIFU",
+        "website": "www.waifutoken.me",
+        "description": {
+            "en": "Waifu ® is an anime-themed entertainment cryptocurrency."
+        }
+    }
+]
